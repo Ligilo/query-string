@@ -1,6 +1,6 @@
 {
 	"name": "query-string-es5",
-	"version": "6.1.3",
+	"version": "6.1.4",
 	"description": "Parse and stringify URL query strings - this version is transpiled with babel, and minor manual changes regarding dependecy package for es5 compability.",
 	"license": "MIT",
 	"repository": "sindresorhus/query-string",
